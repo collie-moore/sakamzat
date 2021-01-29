@@ -24,7 +24,7 @@ export default function Landing() {
         </div>
         <div className="picture">
           <img
-            src="https://demo.w3layouts.com/demos_new/template_demo/29-02-2020/captivate-liberty-demo_Free/232105078/web/assets/images/banner-round.png"
+            src="banner.jpg"
             alt="person"
           />
         </div>
