@@ -7,7 +7,7 @@ export default function Footer() {
       <ul className="first-sec">
         <li>
           <a href="#" className="logo">
-            <i className="fas fa-shield-alt"></i> CAPTIVATE
+            <i className=""></i> SAKAMZAT
           </a>
           <p className="lead">
             Lorem ipsum dolor, sit amet consectet et adipis icing elit. Ab
@@ -40,7 +40,7 @@ export default function Footer() {
         </li>
       </ul>
       <div className="credits">
-        <p>© 2020 Captivate. Built by Robert E. Designed by W3Layouts</p>
+        <p>© 2020 Sakamzat</p>
       </div>
     </div>
   );

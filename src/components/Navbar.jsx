@@ -7,7 +7,7 @@ export default function Navbar() {
     <div>
       <nav className="Navbar">
         <Link to="/" className="logo">
-          <i className="fas fa-shield-alt"></i> <span>CAPTIVATE</span>
+          <i className=""></i> <span>SAKAMZAT</span>
         </Link>
         <ul>
           <li>
@@ -18,25 +18,20 @@ export default function Navbar() {
           </li>
           <li className="drop">
             <span>
-              BLOG <i className="fas fa-sort-down icon"></i>
+              SERVICES <i className="fas fa-sort-down icon"></i>
             </span>
             <ul>
               <li>
-                <a href="#blog1">Article 1</a>
+                <a href="#blog1">SERVICE 1</a>
               </li>
               <li>
-                <a href="#blog2">Article 2</a>
+                <a href="#blog2">SERVICE 2</a>
               </li>
               <li>
-                <a href="https://roberttk1.github.io/My-portfolio/">
-                  Portfolio
-                </a>
+                <a href="#blog3">SERVICE 3</a>
               </li>
               <li>
-                <a href="#blog3">Article 3</a>
-              </li>
-              <li>
-                <a href="#blog4">Article 4</a>
+                <a href="#blog4">SERVICE</a>
               </li>
             </ul>
           </li>
