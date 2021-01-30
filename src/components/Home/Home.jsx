@@ -11,9 +11,10 @@ export default function Home() {
     <div className="Home">
       <Landing />
       <About />
-      <Solutions />
-      <Facts />
-      <News />
+      <Solutions/>
     </div>
   );
 }
+//
+//Facts
+//News

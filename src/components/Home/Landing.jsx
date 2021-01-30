@@ -24,7 +24,7 @@ export default function Landing() {
         </div>
         <div className="picture">
           <img
-            src="banner.jpg"
+            src="../images/banner.jpg"
             alt="person"
           />
         </div>

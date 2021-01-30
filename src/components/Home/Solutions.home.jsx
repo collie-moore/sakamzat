@@ -15,7 +15,7 @@ export default function Solutions_home() {
           <h1>
             <i className="fas fa-briefcase"></i>
           </h1>
-          <a href="#product">Business Services</a>
+          <a href="#product">Fruits & Flowers Export</a>
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.
@@ -25,7 +25,7 @@ export default function Solutions_home() {
           <h1>
             <i className="fas fa-shield-alt"></i>
           </h1>
-          <a href="#product">Product Consulting</a>
+          <a href="#product">Dates Import</a>
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.
@@ -35,37 +35,7 @@ export default function Solutions_home() {
           <h1>
             <i className="fas fa-dollar-sign"></i>
           </h1>
-          <a href="#product">Finacial Consulting</a>
-          <p>
-            Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
-            quas saepe autem, dolor set.
-          </p>
-        </li>
-        <li>
-          <h1>
-            <i className="fas fa-chart-area"></i>
-          </h1>
-          <a href="#product">Investment Planning</a>
-          <p>
-            Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
-            quas saepe autem, dolor set.
-          </p>
-        </li>
-        <li>
-          <h1>
-            <i className="far fa-lightbulb"></i>
-          </h1>
-          <a href="#product">Business Growth</a>
-          <p>
-            Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
-            quas saepe autem, dolor set.
-          </p>
-        </li>
-        <li>
-          <h1>
-            <i className="far fa-image"></i>
-          </h1>
-          <a href="#product">Projects Worldwide</a>
+          <a href="#product">Apple Import</a>
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.

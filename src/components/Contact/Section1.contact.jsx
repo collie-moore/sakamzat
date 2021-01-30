@@ -25,20 +25,19 @@ export default function Section1_contact() {
             <div className="show">
               <i className="fas fa-map-marker-alt icon"></i>
               <p>
-                <span>Address: </span> 50 street Ave, Omaha, NE 68132, United
-                States.
+                <span>Address: </span> Kigali Street, Jamia Mall, Second Floor, Room S2
               </p>
             </div>
             <div className="show">
               <i className="fas fa-phone-alt icon"></i>
               <p>
-                <span>Phone: </span> +123 45 67 88, +123 45 67 88
+                <span>Phone: </span> +254 702 534 044, +254 101 813 270
               </p>
             </div>
             <div className="show">
               <i className="far fa-envelope-open icon"></i>
               <p>
-                <span>Email: </span> Captivate@mail.com
+                <span>Email: </span> info@sakamzat.co.ke
               </p>
             </div>
           </div>
