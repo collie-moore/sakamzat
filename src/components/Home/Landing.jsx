@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function Landing() {
   return (
@@ -19,7 +20,7 @@ export default function Landing() {
             READ MORE
           </a>
           <a href="#services" className="service-btn">
-            OUR SERVICES
+          <Link to="/Solutions.home">SERVICES</Link>
           </a>
         </div>
         <div className="picture">
