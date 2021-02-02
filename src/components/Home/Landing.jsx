@@ -20,7 +20,7 @@ export default function Landing() {
             READ MORE
           </a>
           <a href="#services" className="service-btn">
-          <Link to="/Solutions.home">SERVICES</Link>
+            SERVICES
           </a>
         </div>
         <div className="picture">

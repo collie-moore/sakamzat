@@ -31,7 +31,7 @@ export default function Section1_contact() {
             <div className="show">
               <i className="fas fa-phone-alt icon"></i>
               <p>
-                <span>Phone: </span> +254 702 534 044, +254 101 813 270
+                <span>Phone: </span> +254 702 534 044, +966 541 830 291
               </p>
             </div>
             <div className="show">
