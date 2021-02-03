@@ -22,16 +22,16 @@ export default function Navbar() {
             </span>
             <ul>
               <li>
-                <a href="#blog1">Flowers Export</a>
+                <a href="/FlowersExport">Flowers Export</a>
               </li>
               <li>
-                <a href="#blog2">Fruits Export</a>
+                <a href="FruitExport">Fruits Export</a>
               </li>
               <li>
-                <a href="#blog3">Dates Import</a>
+                <a href="DatesImport">Dates Import</a>
               </li>
               <li>
-                <a href="#blog4">Apples Import</a>
+                <a href="AppleImport">Apples Import</a>
               </li>
             </ul>
           </li>
