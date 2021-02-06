@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Apple_Import() {
+export default function AppleImport() {
   return (
     <div className="solutions">
       <h1 className="title">Meet Our Solutions For You</h1>

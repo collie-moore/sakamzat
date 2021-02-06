@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Fruit_Export() {
+export default function FruitExport() {
   return (
     <div className="solutions">
       <h1 className="title">Meet Our Solutions For You</h1>

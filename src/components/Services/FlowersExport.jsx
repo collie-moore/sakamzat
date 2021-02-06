@@ -1,8 +1,8 @@
 import React from "react";
 
-export default function Flowers_Export() {
+export default function FlowersExport() {
   return (
-    <div className="solutions">
+    <div className="">
       <h1 className="title">Meet Our Solutions For You</h1>
       <hr />
       <p className="lead">

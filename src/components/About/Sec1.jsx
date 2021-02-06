@@ -1,41 +1,23 @@
 import React from "react";
-
 export default function Sec1() {
   return (
     <div className="sec1">
       <div className="first-sec">
-        <span>Flower Exports</span>
+        <span>About Us</span>
         <h4>
-          I need text to explain more about who you are.
+          Your home of flowers imports and exports
         </h4>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi
-          recusandae, ducimus vel rerum accusamus odit provident nobis ratione
-          quisquam obcaecati atque fuga maiores! Tenetur aspernatur alias unde
-          facilis eveniet? Eius! Lorem ipsum dolor sit amet, Fugit ipsam nostrum
-          minus alias, expedita.
-        </p>
-        <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi
-          recusandae, ducimus vel rerum accusamus odit provident nobis ratione
-          quisquam obcaecati atque fuga maiores! Tenetur aspernatur alias unde
-          facilis eveniet? Eius! Lorem ipsum dolor sit amet, Fugit ipsam nostrum
-          minus alias, expedita.
-        </p>
-        <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi
-          recusandae, ducimus vel rerum accusamus odit provident nobis ratione
-          quisquam obcaecati atque fuga maiores! Tenetur aspernatur alias unde
-          facilis eveniet? Eius! Lorem ipsum dolor sit amet, Fugit ipsam nostrum
-          minus alias, expedita.
-        </p>
-        <h6>
-          <i className="fas fa-user"></i> David Karare
-        </h6>
+        Sakamzat Company Ltd is A leading and Reputable one stop shop for Kenyan Flowers.
+        We have a wide variety of Fresh Cut Flowers from Kenya Ranging from Roses to Gypsophillia and also herb. We also work with well-established and mostly sought after farms, for their quality products. This makes us have a massive production base which is able to meet large supply demand and any volume and quantities that you need.
+        We consolidate our shipments which makes its easy, simple, smooth and fast to order. This means timely paperwork processes and reduces payment time making the transaction simple and efficient
+        As Sakamzat we guarantee you High Quality Fresh Cut flowers whenever and wherever you need it
+        As we are a haven of fresh cut Flowers
+        </p> 
       </div>
       <div className="img-sec">
         <img
-          src="#https://demo.w3layouts.com/demos_new/template_demo/29-02-2020/captivate-liberty-demo_Free/232105078/web/assets/images/about1.png"
+          src="https://www.gardenia.net/storage/app/public/uploads/images/detail/fDF4DHGnt29yT2tRl37rNwn230LWqQ8hUhsRsGSj.jpeg"
           alt="Nice Flower pic"
         />
       </div>

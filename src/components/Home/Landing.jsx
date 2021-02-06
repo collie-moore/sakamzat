@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+
 
 export default function Landing() {
   return (
@@ -7,25 +7,20 @@ export default function Landing() {
       <div className="info-container">
         <div className="info">
           <h1>
-            Doing <span>the right thing, at the</span> right time.
+            Best <span>flower services</span> excellent.
           </h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad, dicta?
-            Aut, doloremque. Sed, laborum? Molestiae magni beatae consectetur
-            mollitia nemo sunt dolore et non, ducimus itaque! Provident itaque
-            eum quo. Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Similique, impedit.
+          We have a wide variety of Fresh Cut Flowers from Kenya Ranging from Roses to Gypsophillia and also herb. We also work with well-established and mostly sought after farms, for their quality products. This makes us have a massive production base which is able to meet large supply demand and any volume and quantities that you need.
           </p>
-          <a href="#read" className="read-btn">
+          <a href="./about" className="read-btn">
             READ MORE
           </a>
-          <a href="#services" className="service-btn">
-          <Link to="/Solutions.home">SERVICES</Link>
-          </a>
+          <a href="./service" className="service-btn">
+        Services          </a>
         </div>
         <div className="picture">
           <img
-            src="../images/banner.jpg"
+            src="https://www.gardeningknowhow.com/wp-content/uploads/2019/08/babys-breath1-1-400x267.jpg"
             alt="person"
           />
         </div>
