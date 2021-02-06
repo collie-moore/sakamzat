@@ -15,7 +15,7 @@ export default function Landing() {
           <a href="./about" className="read-btn">
             READ MORE
           </a>
-          <a href="./service" className="service-btn">
+          <a href="./services" className="service-btn">
         Services          </a>
         </div>
         <div className="picture">

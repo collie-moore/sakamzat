@@ -16,25 +16,13 @@ export default function Navbar() {
           <li>
             <Link to="/about">ABOUT</Link>
           </li>
-          <li className="drop">
-            <span>
-              SERVICES <i className="fas fa-sort-down icon"></i>
-            </span>
-            <ul>
-              <li>
-                <a href="/FlowersExport">Flowers Export</a>
-              </li>
-              <li>
-                <a href="FruitExport">Fruits Export</a>
-              </li>
-              <li>
-                <a href="DatesImport">Dates Import</a>
-              </li>
-              <li>
-                <a href="AppleImport">Apples Import</a>
-              </li>
-            </ul>
+          <li>
+            <Link to="/services">SERVICES</Link>
           </li>
+          
+          
+          
+          
         </ul>
         <Link to="/contact" className="contact">
           CONTACT
