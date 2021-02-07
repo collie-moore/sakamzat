@@ -16,24 +16,8 @@ export default function Navbar() {
           <li>
             <Link to="/about">ABOUT</Link>
           </li>
-          <li className="drop">
-            <span>
-              SERVICES <i className="fas fa-sort-down icon"></i>
-            </span>
-            <ul>
-              <li>
-                <a href="#blog1">Flowers Export</a>
-              </li>
-              <li>
-                <a href="#blog2">Fruits Export</a>
-              </li>
-              <li>
-                <a href="#blog3">Dates Import</a>
-              </li>
-              <li>
-                <a href="#blog4">Apples Import</a>
-              </li>
-            </ul>
+          <li>
+            <Link to="/services">OUR SERVICES</Link>
           </li>
         </ul>
         <Link to="/contact" className="contact">

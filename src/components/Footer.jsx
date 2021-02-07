@@ -19,7 +19,7 @@ export default function Footer() {
         <li>
           <h3>QUICK LINKS</h3>
           <p>
-            <a href="#link">About company</a>
+            <a href="./about">About company</a>
           </p>
           <p>
             <a href="#link">Explore services</a>

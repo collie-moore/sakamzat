@@ -30,7 +30,7 @@
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-gap: 0rem;
-    padding: 11rem 9rem 0rem 7.4rem;
+    padding: 10rem 9rem 0rem 7.4rem;
     @media only screen and (max-width: 1000px) {
       padding: 6rem 2rem 1rem 2rem;
     }
@@ -126,7 +126,7 @@
       padding-top: 2rem;
     }
     img {
-      border-radius: 50%;
+      border-radius: 10%;
       height: 440px;
       @media only screen and (max-width: 1000px) {
         height: 350px;

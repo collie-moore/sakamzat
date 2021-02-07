@@ -6,20 +6,19 @@ export default function About_home() {
       <div className="first-sec">
         <h1>About Us</h1>
         <h4>
-          Business planning, Strategy and Execution. A problem-solving
-          philosophy that leads to products people actually want to use.
+        Sakamzat Company Ltd is A leading and Reputable one stop shop for Kenyan Flowers.
         </h4>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi
-          recusandae, ducimus vel rerum accusamus odit provident nobis ratione
-          quisquam obcaecati atque fuga maiores! Tenetur aspernatur alias unde
-          facilis eveniet? Eius! Lorem ipsum dolor sit amet, Fugit ipsam nostrum
-          minus alias, expedita.
+        We have a wide variety of Fresh Cut Flowers from Kenya Ranging from Roses to Gypsophillia and also herb. We also work with well-established and mostly sought after farms, for their quality products. This makes us have a massive production base which is able to meet large supply demand and any volume and quantities that you need.
+        We consolidate our shipments which makes its easy, simple, smooth and fast to order. This means timely paperwork processes and reduces payment time making the transaction simple and efficient
+        As Sakamzat we guarantee you High Quality Fresh Cut flowers whenever and wherever you need it
+        As we are a haven of fresh cut Flowers
+
         </p>
       </div>
       <div className="img-sec">
         <img
-          src="https://demo.w3layouts.com/demos_new/template_demo/29-02-2020/captivate-liberty-demo_Free/232105078/web/assets/images/about.png"
+          src="https://cdn.pixabay.com/photo/2016/01/08/17/06/poppy-1128683_960_720.jpg"
           alt="busness lady"
         />
       </div>
