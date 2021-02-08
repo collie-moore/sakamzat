@@ -7,6 +7,9 @@ import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
 import Services from "./components/Services/services"
 import Footer from "./components/Footer";
+import FlowersExport from "./components/Services/FlowersExport"
+import FruitExport from "./components/Services/FruitExport"
+import DatesImport from "./components/Services/DatesImport"
 
 function App() {
   return (
@@ -18,6 +21,9 @@ function App() {
           <Route path="/about" component={About} />
           <Route path="/contact" component={Contact} />
           <Route path="/services" component={Services}/>
+          <Route path="/flowersexport" component={FlowersExport}/>
+          <Route path="/fruitexport" component={FruitExport}/>
+          <Route path="/datesimport" component={DatesImport}/>
         </Switch>
         <Footer />
       </div>
