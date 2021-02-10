@@ -4,7 +4,7 @@
   padding: 0.8rem 1rem 0.36rem 1rem;
   position: fixed;
   width: 100%;
-  @media only screen and (max-width: 420px) {
+  @media (max-width: 420px) {
     font-size: 80%;
   }
 
@@ -15,7 +15,7 @@
     text-decoration: none;
     text-emphasis: none;
     user-select: none;
-    @media only screen and (max-width: 420px) {
+    @media (max-width: 830px) {
       font-size: 1.3rem;
       span {
         display: none;
@@ -86,7 +86,7 @@
       .icon {
         font-size: 1.2rem;
         padding-bottom: 0.1rem;
-        @media only screen and (max-width: 420px) {
+        @media only screen and (max-width: 830px) {
           font-size: 0.7rem;
           padding-bottom: 0.1rem;
         }
@@ -97,7 +97,7 @@
   .contact {
     color: white;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 400;
     margin-right: 2rem;
     //padding-top: 0.4rem;
     padding: 0.7rem 1rem;

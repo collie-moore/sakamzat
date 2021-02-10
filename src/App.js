@@ -10,6 +10,8 @@ import Footer from "./components/Footer";
 import FlowersExport from "./components/Services/FlowersExport"
 import FruitExport from "./components/Services/FruitExport"
 import DatesImport from "./components/Services/DatesImport"
+import About_home from "./components/Home/About.home"
+import Solutions_home from "./components/Services/services"
 
 function App() {
   return (
@@ -24,6 +26,10 @@ function App() {
           <Route path="/flowersexport" component={FlowersExport}/>
           <Route path="/fruitexport" component={FruitExport}/>
           <Route path="/datesimport" component={DatesImport}/>
+          <Route path="/about.home" component={About_home}/>
+          <Route path="/services" component={Solutions_home}/>
+          
+
         </Switch>
         <Footer />
       </div>

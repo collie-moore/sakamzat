@@ -17,7 +17,7 @@ export default function Solutions_home() {
           <h1>
             <i className="fas fa-fan"></i>
           </h1>
-          <a href="FlowersExport">Flowers Export</a>
+          <a href="/FlowersExport">Flowers Export</a>
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.
@@ -27,7 +27,7 @@ export default function Solutions_home() {
           <h1>
             <i className="fas fa-apple-alt"></i>
           </h1>
-          <a href="FruitExport">Fruits Export</a>
+          <a href="/FruitExport">Fruits Export</a>
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.
@@ -37,7 +37,7 @@ export default function Solutions_home() {
           <h1>
             <i className="fas fa-apple-alt"></i>
           </h1>
-          <a href="DatesImport">Apples & Dates Imports</a>
+          <a href="/DatesImport">Apples & Dates Imports</a>
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.

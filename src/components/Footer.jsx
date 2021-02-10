@@ -40,7 +40,7 @@ export default function Footer() {
         </li>
       </ul>
       <div className="credits">
-        <p>© 2020 Sakamzat</p>
+        <p>© 2021 Sakamzat</p>
       </div>
     </div>
   );
