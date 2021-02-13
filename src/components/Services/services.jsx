@@ -18,7 +18,11 @@ export default function Solutions_home() {
           <h1>
             <i className="fas fa-fan"></i>
           </h1>
+<<<<<<< HEAD
           <Link to="/FlowersExport">Flowers Export</Link>
+=======
+          <a href="/FlowersExport">Flowers Export</a>
+>>>>>>> 4af133ce73eeaa9cf97271dad11e166434a12705
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.
@@ -28,7 +32,11 @@ export default function Solutions_home() {
           <h1>
             <i className="fas fa-apple-alt"></i>
           </h1>
+<<<<<<< HEAD
           <Link to="/FruitExport">Fruits Export</Link>
+=======
+          <a href="/FruitExport">Fruits Export</a>
+>>>>>>> 4af133ce73eeaa9cf97271dad11e166434a12705
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.
@@ -38,7 +46,11 @@ export default function Solutions_home() {
           <h1>
             <i className="fas fa-apple-alt"></i>
           </h1>
+<<<<<<< HEAD
           <Link to="/DatesImport">Apple & Dates Imports</Link>
+=======
+          <a href="/DatesImport">Apples & Dates Imports</a>
+>>>>>>> 4af133ce73eeaa9cf97271dad11e166434a12705
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.

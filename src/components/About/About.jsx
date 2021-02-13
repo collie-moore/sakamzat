@@ -8,6 +8,7 @@ export default function About() {
   return (
     <div className="About">
       <Section1 />
+      
       <Section3 />
     </div>
   );

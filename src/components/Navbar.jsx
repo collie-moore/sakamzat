@@ -1,6 +1,7 @@
 import React from "react";
 import "./nav-foot.scss";
 import { Link } from "react-router-dom";
+import  { Breakpoint, BreakpointProvider } from 'react-socks';
 
 
 export default function Navbar() {
@@ -10,6 +11,7 @@ export default function Navbar() {
         <Link to="/" className="logo">
           <i className="logo"></i> <span>SAKAMZAT</span>
         </Link>
+       
         <ul>
           <li>
             <Link to="/">HOME</Link>
