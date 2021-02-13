@@ -2,7 +2,7 @@
   "name": "captivate",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Roberttk1.github.io/Captivate",
+  "homepage": "http://www.sakamzat.co.ke",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -11,8 +11,10 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-hook-form": "^5.7.2",
+    "react-responsive-carousel": "^3.2.11",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
+    "react-socks": "^2.1.0",
     "reactstrap": "^8.9.0"
   },
   "scripts": {

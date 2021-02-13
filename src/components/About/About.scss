@@ -6,7 +6,7 @@
     font-size: 65%;
   }
 
-  @media only screen and (max-width: 420px) {
+  @media only screen and (max-width: 830px) {
     font-size: 70%;
     padding: 4rem 0 0;
   }
@@ -23,7 +23,7 @@
     @media only screen and (max-width: 1000px) {
       padding: 1rem 2rem;
     }
-    @media only screen and (max-width: 420px) {
+    @media only screen and (max-width: 830px) {
       grid-template-columns: 1fr;
       padding: 1rem 1rem;
       overflow: hidden;
@@ -31,7 +31,7 @@
     }
     .first-sec {
       padding-right: 2rem;
-      @media only screen and (max-width: 420px) {
+      @media only screen and (max-width: 830px) {
         padding-right: 0;
       }
       span {
@@ -47,7 +47,7 @@
         color: #3f3d56;
         margin-top: 0.5rem;
         margin-bottom: 2rem;
-        @media only screen and (max-width: 420px) {
+        @media only screen and (max-width: 830px) {
           margin-bottom: 1rem;
         }
       }
@@ -55,7 +55,7 @@
         color: gray;
         line-height: 1.7rem;
         margin-bottom: 1rem;
-        @media only screen and (max-width: 420px) {
+        @media only screen and (max-width: 830px) {
           font-size: 0.75rem;
         }
       }
@@ -66,7 +66,6 @@
 
     .img-sec {
       img {
-        border-radius: 10%;
         height: 100%;
         width: 100%;
       }
@@ -86,20 +85,20 @@
       padding: 3rem 0.3rem;
       font-size: 60%;
     }
-    @media only screen and (max-width: 420px) {
+    @media only screen and (max-width: 830px) {
       grid-template-columns: 1fr;
       padding: 1rem 3rem;
     }
 
     .col1 {
       padding: 3rem 0;
-      @media only screen and (max-width: 420px) {
+      @media only screen and (max-width: 830px) {
         padding: 2rem 1rem;
       }
       .show {
         display: flex;
         margin-bottom: 3.5rem;
-        @media only screen and (max-width: 420px) {
+        @media only screen and (max-width: 830px) {
           margin-bottom: 2rem;
         }
 
@@ -110,7 +109,7 @@
           @media only screen and (max-width: 1000px) {
             font-size: 1.4rem;
           }
-          @media only screen and (max-width: 420px) {
+          @media only screen and (max-width: 830px) {
             font-size: 1.5rem;
           }
         }
@@ -122,7 +121,7 @@
           @media only screen and (max-width: 1000px) {
             font-size: 1rem;
           }
-          @media only screen and (max-width: 420px) {
+          @media only screen and (max-width: 830px) {
             font-size: 1.2rem;
           }
 
@@ -133,7 +132,7 @@
         p {
           margin-top: 0.5rem;
           color: gray;
-          @media only screen and (max-width: 420px) {
+          @media only screen and (max-width: 830px) {
             font-size: 0.67rem;
           }
         }
@@ -146,7 +145,7 @@
     }
 
     img {
-      height: 600px;
+      height: 400px;
       width: auto;
       @media only screen and (max-width: 1000px) {
         height: 450px;
@@ -162,14 +161,14 @@
     @media only screen and (max-width: 1000px) {
       padding: 3rem 1rem;
     }
-    @media only screen and (max-width: 420px) {
+    @media only screen and (max-width: 830px) {
       padding: 2rem 1rem;
     }
 
     h1 {
       color: #3f3d56;
       margin-bottom: 1rem;
-      @media only screen and (max-width: 420px) {
+      @media only screen and (max-width: 830px) {
         font-size: 1.4rem;
       }
     }
@@ -186,7 +185,7 @@
       padding: 0 7rem;
       color: gray;
       margin-bottom: 2rem;
-      @media only screen and (max-width: 420px) {
+      @media only screen and (max-width: 830px) {
         font-size: 0.74rem;
         padding: 0 2rem;
       }
@@ -196,7 +195,7 @@
       list-style-type: none;
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
-      @media only screen and (max-width: 420px) {
+      @media only screen and (max-width: 830px) {
         grid-template-columns: 1fr;
         grid-gap: 1.5rem;
       }
@@ -207,7 +206,7 @@
         @media only screen and (max-width: 1000px) {
           height: 250px;
         }
-        @media only screen and (max-width: 420px) {
+        @media only screen and (max-width: 830px) {
           height: 300px;
         }
       }

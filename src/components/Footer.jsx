@@ -22,7 +22,7 @@ export default function Footer() {
             <a href="./about">About company</a>
           </p>
           <p>
-            <a href="#link">Explore services</a>
+            <a href="./services">Explore services</a>
           </p>
           <p>
             <a href="#link">How we work</a>
@@ -40,7 +40,7 @@ export default function Footer() {
         </li>
       </ul>
       <div className="credits">
-        <p>© 2020 Sakamzat</p>
+        <p>© 2021 Sakamzat</p>
       </div>
     </div>
   );
