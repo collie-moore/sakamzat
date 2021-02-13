@@ -2,12 +2,13 @@ import React from "react";
 import "./nav-foot.scss";
 import { Link } from "react-router-dom";
 
+
 export default function Navbar() {
   return (
     <div>
       <nav className="Navbar">
         <Link to="/" className="logo">
-          <i className=""></i> <span>SAKAMZAT</span>
+          <i className="logo"></i> <span>SAKAMZAT</span>
         </Link>
         <ul>
           <li>
@@ -17,7 +18,7 @@ export default function Navbar() {
             <Link to="/about">ABOUT</Link>
           </li>
           <li>
-            <Link to="/services">OUR SERVICES</Link>
+            <Link to="/services">SERVICES</Link>
           </li>
         </ul>
         <Link to="/contact" className="contact">

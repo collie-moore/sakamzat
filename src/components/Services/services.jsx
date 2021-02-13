@@ -1,8 +1,11 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function Solutions_home() {
   return (
     <div className="solutions">
+      <br>
+      </br>
       <h1 className="title">Meet Our Solutions For You</h1>
       <hr />
       <p className="lead">
@@ -13,9 +16,9 @@ export default function Solutions_home() {
       <ul className="cards">
         <li>
           <h1>
-            <i className="fas fa-briefcase"></i>
+            <i className="fas fa-fan"></i>
           </h1>
-          <a href="FlowersExport">Flowers Export</a>
+          <Link to="/FlowersExport">Flowers Export</Link>
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.
@@ -23,9 +26,9 @@ export default function Solutions_home() {
         </li>
         <li>
           <h1>
-            <i className="fas fa-shield-alt"></i>
+            <i className="fas fa-apple-alt"></i>
           </h1>
-          <a href="FruitExport">Fruits Export</a>
+          <Link to="/FruitExport">Fruits Export</Link>
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.
@@ -33,9 +36,9 @@ export default function Solutions_home() {
         </li>
         <li>
           <h1>
-            <i className="fas fa-dollar-sign"></i>
+            <i className="fas fa-apple-alt"></i>
           </h1>
-          <a href="AppleImport">Apple & Dates Import</a>
+          <Link to="/DatesImport">Apple & Dates Imports</Link>
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.

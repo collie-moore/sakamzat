@@ -5,25 +5,35 @@ import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
-import Services from "./components/Services/services"
+import Services from "./components/Services/Services"
+import Footer from "./components/Footer";
 import FlowersExport from "./components/Services/FlowersExport"
 import FruitExport from "./components/Services/FruitExport"
-import AppleImport from "./components/Services/AppleImport"
-import Footer from "./components/Footer";
+import DatesImport from "./components/Services/DatesImport"
+import About_home from "./components/Home/About.home"
+import Solutions_home from "./components/Services/Services"
+import Landing from "./components/Home/Landing"
+
 
 function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Navbar />
+
         <Switch>
           <Route exact path="/" component={Home} />
           <Route path="/about" component={About} />
           <Route path="/contact" component={Contact} />
           <Route path="/services" component={Services} />
           <Route path="/flowersexport" component={FlowersExport} />
-          <Route path="/fruitexport" component={FruitExport} />
-          <Route path="/appleimport" component={AppleImport} />
+          <Route path="/fruitExport" component={FruitExport} />
+          <Route path="/DatesImport" component={DatesImport} />
+          <Route path="/about.home" component={About_home} />
+          <Route path="/services" component={Solutions_home} />
+          <Route path="/landing" component={Landing} />
+
+
         </Switch>
         <Footer />
       </div>

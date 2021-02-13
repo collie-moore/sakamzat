@@ -1,45 +1,75 @@
 import React from "react";
 
-export default function AppleImrt() {
+export default function News_home() {
   return (
-    <div className="solutions">
-      <h1 className="title">Meet Our Solutions For You</h1>
+    <div className="news">
+       <br>
+      </br>
+      <h1 className="title">Dates and Apples</h1>
       <hr />
       <p className="lead">
-        Lorem ipsum dolor, sit amet consectet et adipis icing elit. Ab commodi
-        iure minus laboriosam placeat quia, dolorem animi. Eveniet repudiandae,
-        iure et.
+        The following are the flowers that we export
       </p>
       <ul className="cards">
-        <li>
-          <h1>
-            <i className="fas fa-briefcase"></i>
-          </h1>
-          <a href="FlowersExport">Flowers Export</a>
-          <p>
-            Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
-            quas saepe autem, dolor set.
-          </p>
+      <li>
+          <img
+            src="https://cdn.pixabay.com/photo/2016/08/18/14/30/dates-1603127_960_720.jpg"
+            alt="blog"
+          />
+          <div className="link">
+            <a href="#product">Medjool</a>
+          </div>
+          <hr />
         </li>
         <li>
-          <h1>
-            <i className="fas fa-shield-alt"></i>
-          </h1>
-          <a href="FruitExport">Fruits Export</a>
-          <p>
-            Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
-            quas saepe autem, dolor set.
-          </p>
+          <img
+            src="https://cdn.pixabay.com/photo/2016/11/25/19/06/date-palm-1859060_960_720.jpg"
+            alt="blog"
+          />
+          <div className="link">
+            <a href="#product">Dactilifera</a>
+          </div>
+          <hr />
         </li>
         <li>
-          <h1>
-            <i className="fas fa-dollar-sign"></i>
-          </h1>
-          <a href="DatesImport">Apple & Dates Import</a>
-          <p>
-            Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
-            quas saepe autem, dolor set.
-          </p>
+          <img
+            src="https://cdn.pixabay.com/photo/2011/03/16/16/25/dates-5404_960_720.jpg"
+            alt="blog"
+          />
+          <div className="link">
+            <a href="#product">Palm</a>
+          </div>
+          <hr />
+        </li>
+        <li>
+          <img
+            src="https://cdn.pixabay.com/photo/2014/03/30/13/01/rose-301406_960_720.jpg"
+            alt="blog"
+          />
+          <div className="link">
+            <a href="#product">Flower 1</a>
+          </div>
+          <hr />
+        </li>
+        <li>
+          <img
+            src="https://cdn.pixabay.com/photo/2014/03/30/13/01/rose-301406_960_720.jpg"
+            alt="blog"
+          />
+          <div className="link">
+            <a href="#product">Flower 1</a>
+          </div>
+          <hr />
+        </li>
+        <li>
+          <img
+            src="https://cdn.pixabay.com/photo/2014/03/30/13/01/rose-301406_960_720.jpg"
+            alt="blog"
+          />
+          <div className="link">
+            <a href="#product">Flower 1</a>
+          </div>
+          <hr />
         </li>
       </ul>
     </div>

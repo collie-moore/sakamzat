@@ -15,7 +15,7 @@ export default function AppleImport() {
           <h1>
             <i className="fas fa-briefcase"></i>
           </h1>
-          <a href="FlowersExport">Flowers Export</a>
+          <a href="#product">Fruits & Flowers Export</a>
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.
@@ -25,7 +25,7 @@ export default function AppleImport() {
           <h1>
             <i className="fas fa-shield-alt"></i>
           </h1>
-          <a href="FruitExport">Fruits Export</a>
+          <a href="#product">Dates Import</a>
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.
@@ -35,7 +35,7 @@ export default function AppleImport() {
           <h1>
             <i className="fas fa-dollar-sign"></i>
           </h1>
-          <a href="DatesImport">Apple & Dates Import</a>
+          <a href="#product">Apple Import</a>
           <p>
             Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret
             quas saepe autem, dolor set.
